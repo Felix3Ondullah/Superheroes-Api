@@ -28,17 +28,17 @@ Hero.create!(
 Power.create!(
   [
     {
-      name: "super strength and quickness: ",
+      name: "Spidey ",
       description: "gives the wielder super strenght and quickness",
     },
 
     {
-      name: "Strenght  : ",
+      name: "Captain Fantastic ",
       description: "gives the wielder super strenght  ",
     },
 
     {
-      name: "big massive human: ",
+      name: "Green Beast ",
       description: "allows the person to shift into a big super stong human",
     },
 
